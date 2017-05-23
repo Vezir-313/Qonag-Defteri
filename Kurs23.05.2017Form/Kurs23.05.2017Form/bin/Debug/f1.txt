@@ -1,0 +1,8 @@
+ad:vezir
+soyad:tarverdi
+serh:vezir yazir serh
+=========================
+ad:xeyal
+soyad:yedi
+serh:xeyal yazir serh neycun
+=========================

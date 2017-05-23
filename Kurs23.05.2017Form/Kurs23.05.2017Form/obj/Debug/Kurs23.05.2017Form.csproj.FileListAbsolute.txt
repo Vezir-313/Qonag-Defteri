@@ -1,0 +1,9 @@
+c:\users\vezir\onedrive\documents\visual studio 2017\Projects\Kurs23.05.2017Form\Kurs23.05.2017Form\obj\Debug\Kurs23.05.2017Form.csprojResolveAssemblyReference.cache
+c:\users\vezir\onedrive\documents\visual studio 2017\Projects\Kurs23.05.2017Form\Kurs23.05.2017Form\obj\Debug\Kurs23._05._2017Form.Form1.resources
+c:\users\vezir\onedrive\documents\visual studio 2017\Projects\Kurs23.05.2017Form\Kurs23.05.2017Form\obj\Debug\Kurs23._05._2017Form.Properties.Resources.resources
+c:\users\vezir\onedrive\documents\visual studio 2017\Projects\Kurs23.05.2017Form\Kurs23.05.2017Form\obj\Debug\Kurs23.05.2017Form.csproj.GenerateResource.Cache
+c:\users\vezir\onedrive\documents\visual studio 2017\Projects\Kurs23.05.2017Form\Kurs23.05.2017Form\bin\Debug\Kurs23.05.2017Form.exe.config
+c:\users\vezir\onedrive\documents\visual studio 2017\Projects\Kurs23.05.2017Form\Kurs23.05.2017Form\bin\Debug\Kurs23.05.2017Form.exe
+c:\users\vezir\onedrive\documents\visual studio 2017\Projects\Kurs23.05.2017Form\Kurs23.05.2017Form\bin\Debug\Kurs23.05.2017Form.pdb
+c:\users\vezir\onedrive\documents\visual studio 2017\Projects\Kurs23.05.2017Form\Kurs23.05.2017Form\obj\Debug\Kurs23.05.2017Form.exe
+c:\users\vezir\onedrive\documents\visual studio 2017\Projects\Kurs23.05.2017Form\Kurs23.05.2017Form\obj\Debug\Kurs23.05.2017Form.pdb
